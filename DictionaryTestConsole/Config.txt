@@ -1,0 +1,4 @@
+﻿Data = ABCDE
+DispX = 320
+DispY = 240
+ProgramHash=563e51f57ef222548f6e5fb90672e0b396a8f6b599c86f8f22a9db7e80fb0ee0d9371cbad8d14323bc9f8e3af9ebcb1216f8ee5d881e930b48fce8b14b2de337
